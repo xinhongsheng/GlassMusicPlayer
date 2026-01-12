@@ -242,13 +242,6 @@ pnpm format
 
 ---
 
-## 👨‍💻 作者
-
-**Yxcr**
-
-- GitHub: [@XiangZi7](https://github.com/XiangZi7)
-- Email: 793923048@qq.com
-
 ---
 
 ## 🙏 鸣谢
